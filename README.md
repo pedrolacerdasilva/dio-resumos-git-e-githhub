@@ -22,7 +22,7 @@ Repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 
 |------|---------|
 
-| Gravando Alterações no Repositório Local | \[Resumos] () |
+| Gravando Alterações no Repositório Local | \[Resumo] () |
 
 
 
